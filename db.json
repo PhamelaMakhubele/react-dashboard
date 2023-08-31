@@ -1,0 +1,103 @@
+{
+  "questionnaires": [
+    {
+      "id": 2,
+      "question": "Object is an instance or element of a class"
+    },
+    {
+      "question": "A class is a template where individual objects are created",
+      "id": 5
+    },
+    {
+      "question": "Iterator is an object that contains a countable number of values",
+      "id": 6
+    },
+    {
+      "question": "Tuple is immutable",
+      "id": 7
+    },
+    {
+      "question": "Immutable means the state of the variable cannot be changed",
+      "id": 8
+    },
+    {
+      "question": "useState method enables us to change the state of the initial variable",
+      "id": 9
+    },
+    {
+      "question": "Array and objects are primitive types",
+      "id": 10
+    },
+    {
+      "question": "Tenary is a operator which checks the type of operand",
+      "id": 11
+    },
+    {
+      "question": "Hgsvkkdhbdjh",
+      "id": 12
+    },
+    {
+      "question": "Birds can sing",
+      "id": 13
+    }
+    
+   
+  ],
+  
+  "dashboard": [
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "neutral"
+    },
+    {
+      "rate": "neutral"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "disagree"
+    },
+    {
+      "rate": "neutral"
+    },
+    {
+      "rate": "neutral"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "agree"
+    },
+    {
+      "rate": "disagree"
+    }
+  ]
+}
